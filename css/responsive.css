@@ -1,0 +1,838 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v7.0.29,
+* Autoprefixer: v9.7.6
+* Browsers: last 4 version
+*/
+
+@media (max-width: 1105px) {
+    .contact-2{
+    max-width: 850px;
+    width: 100%;
+    }
+    .search-grocery{
+        display: none;
+    }
+    .grocery-wraper{
+        max-width: 850px;
+        width: 100%;
+    }
+    .responsive-search{
+        display: inline;
+        max-width: 846px;
+        width: 100%;
+        height: 49px;
+        background-color: white;
+        border: 1px solid #E8E8E8;
+        margin-top: 25px;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-pack: space-evenly;
+            -ms-flex-pack: space-evenly;
+                justify-content: space-evenly;
+        -webkit-box-align: center;
+            -ms-flex-align: center;
+                align-items: center;
+    }
+    .grocery-products {
+    height: 798px;
+    }
+    .product-div{
+        max-width: 850px;
+        width: 100%;
+    }
+    .menu-icons{
+        width: 115px;
+    }
+    .navigation{
+        max-width: 850px;
+        width: 100%;
+    }
+    .burger-wide{
+        display: none;
+    }
+    .divider2{
+        display: none;
+    }
+    .navbar{
+        margin-left: 25px;
+    }
+    .right-banners{
+        display: none;
+    }
+    .container{
+        max-width: 850px;
+        width: 100%;
+    }
+    .sec-two-title{
+        font-size: 15px;
+    }
+    .receipe-photo{
+        width: 150px;
+    }
+    .product-div-sec3{
+        max-width: 850px;
+        width: 100%;
+    }
+    .sec3-boxes {
+        width: 146px;
+    }
+    .stats-box{
+        max-width: 850px;
+        width: 100%;
+    }
+    .footer-container{
+        max-width: 850px;
+        width: 100%;
+    }
+    .about-us-text{
+        width: 140px;
+    }
+    .first-box-footer{
+        width: 180px;
+    }
+    .column-subscribe{
+        width: 215px;
+    }
+    .right-title{
+        display: none;
+    }
+    .android{
+        width: 59px;
+    }
+    .app-buttons{
+        width: 135px;
+    }
+    .buttoninput{
+        font-size: 12px;
+    }
+    .product-div-salmon-container{
+        max-width: 850px;
+        width: 100%;
+    }
+    .footer-container-2{
+        max-width: 850px;
+        width: 100%;
+    }
+    .left-photo-box-salmon{
+        display: none;
+    }
+    .left-photo-box-salmon-mobile{
+        display: inline;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+                flex-direction: column;
+    }
+    .left-three-photos-salmon{
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        max-width: 230px;
+        width: 100%;
+        -webkit-box-pack: justify;
+            -ms-flex-pack: justify;
+                justify-content: space-between;
+        height: 67px;
+        margin-top: 20px;
+    }
+    .photo-product{
+        width: 67px;
+        height: 67px;
+    }
+    .photo-product-center{
+        margin-top: 0;
+        margin-bottom: 0;
+        width: 67px;
+        height: 67px;
+
+    }
+    .salm-small-photo{
+        width: 67px;
+        height: 67px;
+    }
+    .right-salmon-product{
+        max-width: 206px;
+        width: 100%;
+        height: 206px;
+        margin-left: 0;
+    }
+    .salmon-big{
+    max-width: 206px;
+    width: 100%;
+    height: 206px;
+    }
+    .product-div-opened{
+    max-width: 850px;
+    width: 100%;
+    }
+}
+@media (max-width: 850px) {
+    .contact-2{
+        max-width: 780px;
+        width: 100%;
+        }
+    .product-div-opened{
+        display: none;
+    }
+    .product-div-opened-responsive1{
+        display: inline;
+        max-width: 780px;
+        width: 100%;
+        height: 360px;
+    }
+    .product-div-salmon-container {
+        max-width: 780px;
+        width: 100%;
+    }
+    .responsive-size-salmon{
+        width: 206px;
+        height: 206px;
+    }
+    .container{
+        max-width: 780px;
+        width: 100%;
+    }
+    .stats-box {
+        max-width: 780px;
+        width: 100%;
+    }
+    .footer-container{
+        max-width: 780px;
+        width: 100%;
+    }
+    .footer-container-2{
+        max-width: 780px;
+        width: 100%;
+    }
+    .responsive-photo-text-wraper{
+        max-width: 849px;
+        width: 100%;
+        height: 206px;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-pack: justify;
+            -ms-flex-pack: justify;
+                justify-content: space-between;
+    }
+    .responsive-photo-text-wraper2{
+        max-width: 740px;
+        width: 100%;
+        height: 206px;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-pack: justify;
+            -ms-flex-pack: justify;
+                justify-content: space-between;
+    }
+    .responsive-search{
+        max-width: 780px;
+        width: 100%;
+    }
+    .product{
+        max-width: 780px;
+        width: 100%;
+        height: 252px;
+    }
+    .grocery-products{
+        height: 900px;
+    }
+.grocery-wraper{
+    max-width: 780px;
+    width: 100%;
+    height: 926px;
+    }
+.prod-img-1{
+    display: none;
+    }
+.product-texts{
+    display: none;
+    }
+.buy-box{
+    display: none;
+    }
+.responsive-text{
+    display: inline;
+    max-width: 600px;
+    width: 100%;
+    height: 206px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    margin-left: 20px;
+    }
+.price-responsive{
+    max-width: 624px;
+    width: 100%;
+    height: 102px;
+    border: 1px solid #E8E8E8;
+    }
+.button-prices{
+    padding-left: 0px;
+    margin-top: 0px;
+    margin-right: 20px;
+    }
+.prices-buttons{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    max-width: 586px;
+    width: 100%;
+    }
+.product-price-title{
+    font-size: 30px;
+    }
+.responsive-det-text{
+    font-family: PT_sans;
+    font-size: 14px;
+    color: #8D8D8D;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    }
+}
+@media (max-width: 800px) {
+    .contact-2{
+    max-width: 700px;
+    width: 100%;
+    }
+    .grocery-wraper{
+    max-width: 700px;
+    width: 100%; 
+    }
+    .responsive-photo-text-wraper2{
+    max-width: 660px;
+    width: 100%; 
+    }
+    .responsive-search{
+    max-width: 700px;
+    width: 100%;
+    }
+    .product-div-opened-responsive1{
+    max-width: 700px;
+    width: 100%;
+    }
+    .product-div-salmon-container{
+    max-width: 700px;
+    width: 100%; 
+    }
+    .container{
+    max-width: 700px;
+    width: 100%;
+    }
+    .product-div{
+    max-width: 700px;
+    width: 100%;   
+    }
+    .prod-1{
+    width: 100px;
+    }
+    .left-product-top{
+    width: 333px;
+    }
+    .left-product-bottom{
+    width: 333px;
+    }
+    .center-product{
+    width: 333px;
+    }
+    .center-over-photo{
+    width: 290px;
+    }
+    .deal-titles{
+    width: 290px;
+    }
+    .header-title-sec3-1{
+    font-size: 80px;
+    }
+    .header-title-sec3-2{
+    font-size: 30px;
+    }
+    .product-div-sec3{
+    max-width: 700px;
+    width: 100%;
+    height: 200px;
+    }
+    .receipe-photo{
+    width: 94px;
+    }
+    .receipe-text{
+    display: none;
+    }
+    .section-3{
+    height: 569px;
+    }
+    .testimonals-box{
+    margin-top: 0px;
+    }
+    .testimonals {
+    height: 394px;
+    }
+    .testimonals-box{
+    max-width: 600px;
+    width: 100%;
+    }
+    .testimonal-text-2{
+    width: 400px;
+    }
+    .stats-box{
+    max-width: 700px;
+    width: 100%;
+    }
+    .stat-text1{
+    font-size: 15px;
+    }
+    .stat-text2{
+    font-size: 15px;
+    }
+    .first-box-footer{
+    width: 132px;
+    }
+    .column{
+    width: 112px;
+    }
+    .footer-container{
+    max-width: 700px;
+    width: 100%;
+    }
+    .column-subscribe{
+    width: 152px;
+    }
+    .footer-container-2{
+    max-width: 700px;
+    width: 100%;
+    }
+    .fname{
+    font-size: 10px;
+    }
+    .buttoninput{
+    width: 92px;
+    }
+}
+@media (max-width: 662px) {
+.mobile-menu{
+    display: none;
+    }
+.nav-ul-2{
+        display: block;
+        text-align: center;
+    }
+.menu-sizes{
+        width: 112px;
+        height: 343px;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+                flex-direction: column;
+        -webkit-box-pack: justify;
+            -ms-flex-pack: justify;
+                justify-content: space-between;
+        -webkit-box-align: center;
+            -ms-flex-align: center;
+                align-items: center;
+        margin-top: 33px;
+    }
+.logo{
+        width: 52px;
+    }
+    .open-menu{
+        background-color: white;
+        max-width: 662px;
+        width: 100%;
+        height: 410px;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+        position: absolute;
+        z-index: 2;
+    }
+    .li-class{
+        margin-top: 20px;
+    }
+    .x-button{
+        width: 24px;
+    }
+    .contact-2{
+        max-width: 460px;
+        width: 100%;
+        }
+    .responsive-photo-text-wraper2{
+        display: none;
+    }
+    .product-div-opened-responsive1{
+        display: none;
+    }
+    .product-div-mobile2{
+        display: inline;
+        max-width: 460px;
+        width: 100%;
+        height: 670px;
+    }
+    .grocery-wraper{
+        height: 2300px;
+    }
+    .grocery-products{
+        height: 2270px;
+    }
+    .product{
+        height: 762px;
+    }
+    .product-div-mobile{
+        display: inline;
+        max-width: 460px;
+        width: 100%;
+        height: 868px;
+    }
+    .price-responsive{
+        margin-top: 20px;
+    }
+    .responsive-size-salmon{
+        max-width: 460px;
+        width: 100%;
+        height: 460px;
+    }
+    .right-salmon-product{
+        max-width: 460px;
+        width: 100%;
+        max-height: 460px;
+        height: 100%;
+        margin-top: 20px;
+    }
+    .product-div-salmon{
+    height: 1290px;
+    }
+    .container{
+    max-width: 460px;
+    }
+    .nav-ul{
+    display: none;
+    }
+    .search{
+    display: none;
+    }
+    .basket{
+    display: none;
+    }
+    .divider{
+    display: none
+    }
+    .burger-wide{
+    display: inline;
+    }
+    .navigation{
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    }
+    .menu-icons{
+    width: 33px;
+    }
+    .header-title-1{
+    font-size: 70px;
+    }
+    .header-title-2{
+    font-size: 30px;
+    margin: 20px 0 50px 0;
+    }
+    .header-text{
+    height: 310px;
+    }
+    .header-wrapper{
+    height: 406px;
+    }
+    .product-wraper-in{
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    padding-top: 35px;
+    }
+    .product-wraper{
+    height: 875px;
+    }
+    .left-product-top{
+    max-width: 460px;
+    width: 100%;
+    }
+    .left-product-bottom{
+    max-width: 460px;
+    width: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: space-evenly;
+        -ms-flex-pack: space-evenly;
+            justify-content: space-evenly;
+    }
+    .center-product{
+    max-width: 460px;
+    width: 100%;
+    margin-top: 30px;
+    }
+    .center-over-photo{
+    width: 341px;
+    }
+    .deal-titles{
+        width: 341px;
+    }
+    .product-div{
+        display: none;
+    }
+    .product-sec-two{
+        display: none;
+    }
+    .sec-two{
+        display: inline;
+    }
+    .header-title-sec3-1{
+        font-size: 60px;
+    }
+    .photo-text-sec3{
+        height: 290px;
+        padding-top: 50px;
+    }
+    .section-3 {
+        height: 489px;
+    }
+    .testimonals-box{
+        max-width: 470px;
+        width: 100%;
+    }
+    .testimonal-text-2{
+        font-size: 15px;
+        width: 330px;
+    }
+    .section-3{
+        display: none;
+    }
+    .stats-box{
+        display: none;
+    }
+    .stats-box-mobile{
+        display: inline;
+    }
+    .stats-box-mobile{
+    max-width: 460px;
+    width: 100%;
+    height: 345px;
+    background-color: #ffffff;
+    position: absolute;
+    top: 53px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    text-align: center;
+    -webkit-box-pack: space-evenly;
+        -ms-flex-pack: space-evenly;
+            justify-content: space-evenly;
+    }
+    .statsbox-top3{
+    max-width: 440px;
+    width: 100%;
+    height: 175px;
+    background-color: #ffffff;
+    top: 200px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    text-align: center;
+    -webkit-box-pack: space-evenly;
+        -ms-flex-pack: space-evenly;
+            justify-content: space-evenly;
+    }
+    .statsbox-bott3{
+    max-width: 440px;
+    width: 100%;
+    height: 175px;
+    background-color: #ffffff;
+    top: 200px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    text-align: center;
+    -webkit-box-pack: space-evenly;
+        -ms-flex-pack: space-evenly;
+            justify-content: space-evenly;
+    }
+    .footer{
+        display: none;
+    }
+    .footer-mob{
+    max-width: 662px;
+    width: 100%;
+    height: 411px;
+    background-color: #282E39;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    }
+    .footer-mob-about-us{
+    font-family: Montserrat;
+    color: #5D687D;
+    font-size: 16px;
+    }
+    .footer-divider{
+    max-width: 662px;
+    width: 100%;
+    height: 1px;
+    background-color: #475061;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    }
+    .footer-bottom-line{
+    padding-right: 20px;
+    padding-left: 20px;
+    }
+    .arrow-testimonal{
+        display: none;
+    }
+    .review{
+        width: 268px;
+    }
+    .nav-ul.open-menu{
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+                flex-direction: column;
+        -webkit-box-align: center;
+            -ms-flex-align: center;
+                align-items: center;
+      } 
+}  
+@media (max-width: 420px) {
+.grocery-wraper{
+    height: 1797px;
+    }
+.contact-2{
+    max-width: 301px;
+    width: 100%;
+    }
+.left-numbers{
+    width: 140px;
+}
+.product-price-title2{
+    font-size: 18px;
+}
+.product-div-mobile2{
+    max-width: 301px;
+    width: 100%;
+    height: 494px;
+    }
+.product{
+    height: 532px;
+}
+.grocery-products{
+    height: 1760px;
+}
+.product-div-salmon{
+    height: 1154px;
+}
+.product-div-mobile{
+    height: 700px;
+    }
+.button-prices{
+    width: 129px;
+}
+.drop-down{
+    display: none;
+}
+.product-div-mobile{
+    max-width: 301px;
+    width: 100%;
+}
+.review{
+    width: 268px;
+}
+.responsive-size-salmon{
+    height: 301px;
+}
+.right-salmon-product{
+    height: 301px;
+}
+.product-price-title{
+    font-size: 23px;
+}
+.header-title-1{
+    font-size: 50px;
+}
+.header-title-2{
+    font-size: 20px;
+}
+.button {
+    height: 40px;
+    width: 150px;
+    font-size: 19px;
+    padding-bottom: 5px;
+}
+.header-wrapper {
+    height: 356px;
+}
+.header-text {
+    height: 250px;
+}
+.center-over-photo {
+    width: 261px;
+}
+.deal-titles {
+    width: 261px;
+}
+.container {
+    max-width: 301px;
+}
+.left-product-bottom{
+    height: 213px;
+}
+.product-wraper {
+    height: 908px;
+}
+}
