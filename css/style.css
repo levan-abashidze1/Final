@@ -166,6 +166,10 @@
 	box-shadow: 2px 2px 50px rgba(0, 0, 0, 0.7);
 
 }
+.tevzi{
+    max-width: 299px;
+    width: 100%;
+}
 .menu-icons{
     width: 215px;
     height: 100px;

@@ -821,7 +821,8 @@
     height: 250px;
 }
 .center-over-photo {
-    width: 261px;
+    max-width: 261px;
+    width: 100%;
 }
 .deal-titles {
     width: 261px;
