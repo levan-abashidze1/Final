@@ -750,6 +750,22 @@
       } 
 }  
 @media (max-width: 420px) {
+    .deal-1{
+    max-width: 171px;
+    width: 100%;
+    }
+.slivki{
+    max-width: 104px;
+    width: 100%;
+}
+.customer-text2{
+    max-width: 300px;
+    width: 100%;
+}
+.testimonal-text-2{
+    max-width: 270px;
+    width: 100%;
+    }
 .grocery-wraper{
     height: 1797px;
     }
